@@ -1,0 +1,5 @@
+/.hg
+**/.metadata
+**/bin
+*.log
+
